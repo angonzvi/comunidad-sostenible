@@ -48,8 +48,9 @@ li{
 	font-size: 15px;
 	
 }
-.pd-cont{
-   padding-top: 2%;  
+.pd-mv{
+	padding-top: 3%;  
+	padding-bottom: 3%;
 }
 
 .metFondo{
@@ -70,3 +71,11 @@ li{
 
 }
 
+.p_serv{
+	width: 70%;
+	margin-left: 15%;
+}
+.proyFondo{
+	background-color: #4B6410;
+	padding:0 40px;
+}
