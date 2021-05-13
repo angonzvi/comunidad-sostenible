@@ -79,3 +79,13 @@ li{
 	background-color: #4B6410;
 	padding:0 40px;
 }
+
+.icon_rrss{
+width: 40px;
+margin: 10px;
+}
+
+.circulo{
+	border-radius: 100%;
+	width:50%;
+}
